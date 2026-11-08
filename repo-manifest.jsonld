@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/PeerQA/commit/d6d4170a9353cf61c2356e4100683601535a91e2",
       "git:hexsha": "d6d4170a9353cf61c2356e4100683601535a91e2",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T09:20:19.648307+00:00"
     }
   ]
 }
